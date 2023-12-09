@@ -3,10 +3,6 @@
 
 ##Cara Install Linux Lengkap Untuk Pemula
 
- 
-Mau Serius Belajar Linux?
-
-
 Jika kamu baru belajar linux,kamu perlu mencoba linux dengan tangan mu secara langsung untuk merasakan sensasi linux.
 
 Kamu bisa mencoba menginstall linux di komputermu dengan berbagai cara yang bisa kamu pilih sesuai dengan keadaan dan keinginan mu.
